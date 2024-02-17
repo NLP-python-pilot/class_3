@@ -1,7 +1,7 @@
 # Assignment #3 - Feb 17th to Feb 23rd
 
 ###### *Solutions for previous assignments can be found here: https://github.com/ponceoscarj/nlp_python_pilot/tree/main*
-
+*You must have received an invitation to join this repository. If you have not, please let me know through Slack either by direct message or any of the channels*
 
 ## Overall Instructions
 1. Watch the following videos:
